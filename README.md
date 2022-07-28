@@ -17,7 +17,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Video](./video/index.js%20-%20Team-Profile-Generator%20-%20Visual%20Studio%20Code%202022-07-28%2011-34-33.mp4)<br>
+View walk through video here - [Video](./video/Team_Profile_Generator.gif)<br>
 <img src="./image/samplepage.jpg">
 
 ## License 
